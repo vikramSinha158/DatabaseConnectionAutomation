@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R1.Automation.Database.core", "R1.Automation.Database.core\R1.Automation.Database.core.csproj", "{DBA092C5-7A66-42F5-83DE-46CD3241DDE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA092C5-7A66-42F5-83DE-46CD3241DDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA092C5-7A66-42F5-83DE-46CD3241DDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA092C5-7A66-42F5-83DE-46CD3241DDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA092C5-7A66-42F5-83DE-46CD3241DDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007466D8-6BB3-427F-BD42-33A5C8C71F39}
+	EndGlobalSection
+EndGlobal
